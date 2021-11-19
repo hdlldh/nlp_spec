@@ -1,0 +1,1 @@
+/home/jovyan/work-ro/support_files/best_paths_trained.pkl
