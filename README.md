@@ -11,7 +11,7 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 
 This is the first course of the Natural Language Processing Specialization.
 
-**Week 1: [Logistic Regression for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week 1/assignment/C1_W1_Assignment.ipynb)**
+**Week 1: [Logistic Regression for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week 1/assignment/)**
 
 - Use a simple method to classify positive or negative sentiment in tweets
 
