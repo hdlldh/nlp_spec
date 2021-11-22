@@ -32,19 +32,19 @@ This is the first course of the Natural Language Processing Specialization.
 
 This is the second course of the Natural Language Processing Specialization.
 
-**Week 1: Auto-correct using Minimum Edit Distance**
+**Week 1: [Auto-correct using Minimum Edit Distance](2_probabilistic_models/Week_1/assignment/C2_W1_Assignment.ipynb)**
 
 - Create a simple auto-correct algorithm using minimum edit distance and dynamic programming
 
-**Week 2: Part-of-Speech (POS) Tagging**
+**Week 2: [Part-of-Speech (POS) Tagging](2_probabilistic_models/Week_2/assignment/C2_W2_Assignment.ipynb)**
 
 - Apply the Viterbi algorithm for POS tagging, which is important for computational linguistics
 
-**Week 3: N-gram Language Models**
+**Week 3: [N-gram Language Models](2_probabilistic_models/Week_3/assignment/C2_W3_Assignment.ipynb)**
 
 - Write a better auto-complete algorithm using an N-gram model (similar models are used for translation, determining the author of a text, and speech recognition)
 
-**Week 4: Word2Vec and Stochastic Gradient Descent**
+**Week 4: [Word2Vec and Stochastic Gradient Descent](2_probabilistic_models/Week_4/assignment/C2_W4_Assignment.ipynb)**
 
 - Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
 
