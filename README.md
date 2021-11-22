@@ -15,15 +15,15 @@ This is the first course of the Natural Language Processing Specialization.
 
 - Use a simple method to classify positive or negative sentiment in tweets
 
-**Week 2: Naïve Bayes for Sentiment Analysis of Tweets**
+**Week 2: [Naïve Bayes for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week_2/assignment/C1_W2_Assignment.ipynb)**
 
 - Use a more advanced model for sentiment analysis
 
-**Week 3: Vector Space Models**
+**Week 3: [Vector Space Models](1_classification_vector_spaces/Week_3/assignment/C1_W3_Assignment.ipynb)**
 
 - Use vector space models to discover relationships between words and use principal component analysis (PCA) to reduce the dimensionality of the vector space and visualize those relationships
 
-**Week 4: Word Embeddings and Locality Sensitive Hashing for Machine Translation**
+**Week 4: [Word Embeddings and Locality Sensitive Hashing for Machine Translation](1_classification_vector_spaces/Week_4/assignment/C1_W4_Assignment.ipynb)**
 
 - Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
 
