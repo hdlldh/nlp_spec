@@ -53,7 +53,7 @@ This is the second course of the Natural Language Processing Specialization.
 
 This is the third course in the Natural Language Processing Specialization.
 
-**Week 1: Sentiment with Neural Nets**
+**Week 1: [Sentiment with Neural Nets](3_sequence_models/Week_1/assignment/C3_W1_Assignment.ipynb)**
 
 - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
 
