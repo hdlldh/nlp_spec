@@ -57,7 +57,7 @@ This is the third course in the Natural Language Processing Specialization.
 
 - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
 
-**Week 2: Language Generation Models**
+**Week 2: [Language Generation Models](3_sequence_models/Week_2/assignment/C3_W2_Assignment.ipynb)**
 
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
 
