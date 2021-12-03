@@ -61,7 +61,7 @@ This is the third course in the Natural Language Processing Specialization.
 
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
 
-**Week 3: Named Entity Recognition (NER)**
+**Week 3: [Named Entity Recognition (NER)](3_sequence_models/Week_3/assignment/C3_W3_Assignment.ipynb)**
 
 - Train a recurrent neural network to perform NER using LSTMs with linear layers
 
