@@ -1,0 +1,1 @@
+/home/jovyan/work-ro/support_files/classify_fn/accuracy_metric_batch512.pkl

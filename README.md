@@ -65,7 +65,7 @@ This is the third course in the Natural Language Processing Specialization.
 
 - Train a recurrent neural network to perform NER using LSTMs with linear layers
 
-**Week 4: Siamese Networks**
+**Week 4: [Siamese Networks](3_sequence_models/Week_4/assignment/C3_W4_Assignment.ipynb)**
 
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
 
