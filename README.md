@@ -74,7 +74,7 @@ This is the third course in the Natural Language Processing Specialization.
 
 This is the fourth course in the Natural Language Processing Specialization.
 
-**Week 1: Neural Machine Translation with Attention**
+**Week 1: [Neural Machine Translation with Attention](4_attention_models/Week_1/assignment/C4_W1_Assignment.ipynb)**
 
 - Translate complete English sentences into French using an encoder/decoder attention model
 
