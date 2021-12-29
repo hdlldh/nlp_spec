@@ -78,7 +78,7 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 - Translate complete English sentences into French using an encoder/decoder attention model
 
-**Week 2: Summarization with Transformer Models**
+**Week 2: [Summarization with Transformer Models](4_attention_models/Week_2/assignment/C4_W2_Assignment.ipynb)**
 
 - Build a transformer model to summarize text
 
