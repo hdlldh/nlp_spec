@@ -14,18 +14,31 @@ This is the first course of the Natural Language Processing Specialization.
 **Week 1: [Logistic Regression for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week_1/assignment/C1_W1_Assignment.ipynb)**
 
 - Use a simple method to classify positive or negative sentiment in tweets
+- Labs:
+	- Natural Language preprocessing
+	- Visualzing word frequencies
+	- Visualizing tweets and Logistic Regression models 	
 
 **Week 2: [Naïve Bayes for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week_2/assignment/C1_W2_Assignment.ipynb)**
 
 - Use a more advanced model for sentiment analysis
+- Labs:
+	- Visualizing likelihoods and confidence ellipses
 
 **Week 3: [Vector Space Models](1_classification_vector_spaces/Week_3/assignment/C1_W3_Assignment.ipynb)**
 
 - Use vector space models to discover relationships between words and use principal component analysis (PCA) to reduce the dimensionality of the vector space and visualize those relationships
+- Labs:
+	- Linear algebra in Python with Numpy
+	- Manipulating word embeddings
+	- Another explanation about PCA
 
 **Week 4: [Word Embeddings and Locality Sensitive Hashing for Machine Translation](1_classification_vector_spaces/Week_4/assignment/C1_W4_Assignment.ipynb)**
 
 - Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
+- Labs:
+	- Rotation matrices in R2
+	- Hash tables
 
 
 ## Course 2: Probabilistic Models in NLP
@@ -35,18 +48,34 @@ This is the second course of the Natural Language Processing Specialization.
 **Week 1: [Auto-correct using Minimum Edit Distance](2_probabilistic_models/Week_1/assignment/C2_W1_Assignment.ipynb)**
 
 - Create a simple auto-correct algorithm using minimum edit distance and dynamic programming
+- Labs:
+	- Building the vocabulary
+	- Candidates from edits
 
 **Week 2: [Part-of-Speech (POS) Tagging](2_probabilistic_models/Week_2/assignment/C2_W2_Assignment.ipynb)**
 
 - Apply the Viterbi algorithm for POS tagging, which is important for computational linguistics
+- Labs:
+	- Working with text files
+	- Working with tags and Numpy
 
 **Week 3: [N-gram Language Models](2_probabilistic_models/Week_3/assignment/C2_W3_Assignment.ipynb)**
 
 - Write a better auto-complete algorithm using an N-gram model (similar models are used for translation, determining the author of a text, and speech recognition)
+- Labs:
+	- Corpus preprocessing for N-grams
+	- Building the language model
+	- Language model generalization
 
 **Week 4: [Word2Vec and Stochastic Gradient Descent](2_probabilistic_models/Week_4/assignment/C2_W4_Assignment.ipynb)**
 
 - Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
+- Labs:
+	- Data Preparation
+	- Intro to CBOW model
+	- Training the CBOW model
+	- Word Embeddings
+	- Word Embeddings step by step
 
 
 ## Course 3: Sequence Models in NLP
@@ -56,19 +85,33 @@ This is the third course in the Natural Language Processing Specialization.
 **Week 1: [Sentiment with Neural Nets](3_sequence_models/Week_1/assignment/C3_W1_Assignment.ipynb)**
 
 - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
+- Labs:
+	- Introduction to Trax
+	- Classes and Subclasses
+	- Data Generators
 
 **Week 2: [Language Generation Models](3_sequence_models/Week_2/assignment/C3_W2_Assignment.ipynb)**
 
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
+- Labs:
+	- Hidden State Activation
+	- Vanilla RNNS, GRUs and the scan function
+	- Working with JAX Numpy and Calculating Perplexity
+	- Creating a GRU model using Trax
 
 **Week 3: [Named Entity Recognition (NER)](3_sequence_models/Week_3/assignment/C3_W3_Assignment.ipynb)**
 
 - Train a recurrent neural network to perform NER using LSTMs with linear layers
+- Labs:
+	- Introduction to LSTM
 
 **Week 4: [Siamese Networks](3_sequence_models/Week_4/assignment/C3_W4_Assignment.ipynb)**
 
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
-
+- Labs:
+	- Creating a Siamese Model using Trax
+	- Modified Triplet Loss
+	- Evaluate a Siamese Model
 
 ## Course 4: Attention Models in NLP
 
@@ -77,15 +120,29 @@ This is the fourth course in the Natural Language Processing Specialization.
 **Week 1: [Neural Machine Translation with Attention](4_attention_models/Week_1/assignment/C4_W1_Assignment.ipynb)**
 
 - Translate complete English sentences into French using an encoder/decoder attention model
+- Labs:
+	- Basic Attention
+	- Scaled Dot-Product Attention
+	- BLEU Score
+	- Stack Semantics
 
 **Week 2: [Summarization with Transformer Models](4_attention_models/Week_2/assignment/C4_W2_Assignment.ipynb)**
 
 - Build a transformer model to summarize text
+- Labs:
+	- Attention
+	- The Transformer Decoder
 
 **Week 3: [Question-Answering with Transformer Models](4_attention_models/Week_3/assignment/C4_W3_Assignment.ipynb)**
 
 - Use T5 and BERT models to perform question answering
+- Labs:
+	- SentencePiece and BPE
+	- Qustion and 
 
 **Week 4: Chatbots with a Reformer Model**
 
 - Build a chatbot using a reformer model
+- Labs:
+	- Reformer LSH
+	- Revnet
