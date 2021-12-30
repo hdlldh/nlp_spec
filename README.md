@@ -82,7 +82,7 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 - Build a transformer model to summarize text
 
-**Week 3: Question-Answering with Transformer Models**
+**Week 3: [Question-Answering with Transformer Models](4_attention_models/Week_3/assignment/C4_W3_Assignment.ipynb)**
 
 - Use T5 and BERT models to perform question answering
 
