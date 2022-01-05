@@ -121,28 +121,29 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 - Translate complete English sentences into French using an encoder/decoder attention model
 - Labs:
-	- Basic Attention
-	- Scaled Dot-Product Attention
-	- BLEU Score
-	- Stack Semantics
+	- [Basic Attention](4_attention_models/Week_1/labs/C4_W1_Ungraded_Lab_1_Basic_Attention.ipynb)
+	- [Scaled Dot-Product Attention](4_attention_models/Week_1/labs/C4_W1_Ungraded_Lab_2_QKV_Attention.ipynb)
+	- [BLEU Score](4_attention_models/Week_1/labs/C4_W1_Ungraded_Lab_3_Bleu_Score.ipynb)
+	- [Stack Semantics](4_attention_models/Week_1/labs/C4_W1_Ungraded_Lab_4_Stack_Semantics.ipynb)
 
 **Week 2: [Summarization with Transformer Models](4_attention_models/Week_2/assignment/C4_W2_Assignment.ipynb)**
 
 - Build a transformer model to summarize text
 - Labs:
-	- Attention
-	- The Transformer Decoder
+	- [Attention](4_attention_models/Week_2/labs/C4_W2_Ungraded_Lab_1_Attention.ipynb)
+	- [The Transformer Decoder](4_attention_models/Week_2/labs/C4_W2_Ungraded_Lab_2_Transformer_Decoder.ipynb)
 
 **Week 3: [Question-Answering with Transformer Models](4_attention_models/Week_3/assignment/C4_W3_Assignment.ipynb)**
 
 - Use T5 and BERT models to perform question answering
 - Labs:
-	- SentencePiece and BPE
-	- Question Answering with HuggingFace 
+	- [SentencePiece and BPE](4_attention_models/Week_3/labs/C4_W3_SentencePiece_and_BPE.ipynb)
+	- [Question Answering with HuggingFace 1](4_attention_models/Week_3/labs/Colab_C4_W3_1_Question_Answering_with_BERT_and_HuggingFace_Pytorch_tydiqa.ipynb)
+	- [Question Answering with HuggingFace 2](4_attention_models/Week_3/labs/Colab_C4_W3_2_Question_Answering_with_BERT_and_HuggingFace_Pytorch_tydiqa.ipynb)
 
 **Week 4: [Chatbots with a Reformer Model](4_attention_models/Week_4/assignment/C4_W4_Assignment.ipynb)**
 
 - Build a chatbot using a reformer model
 - Labs:
-	- Reformer LSH
-	- Revnet
+	- [Reformer LSH](4_attention_models/Week_4/labs/C4_W4_Ungraded_Lab_1_Reformer_LSH.ipynb)
+	- [Revnet](4_attention_models/Week_4/labs/C4_W4_Ungraded_Lab_2_Revnet.ipynb)
