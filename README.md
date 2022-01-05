@@ -138,9 +138,9 @@ This is the fourth course in the Natural Language Processing Specialization.
 - Use T5 and BERT models to perform question answering
 - Labs:
 	- SentencePiece and BPE
-	- Qustion and 
+	- Question Answering with HuggingFace 
 
-**Week 4: Chatbots with a Reformer Model**
+**Week 4: [Chatbots with a Reformer Model](4_attention_models/Week_4/assignment/C4_W4_Assignment.ipynb)**
 
 - Build a chatbot using a reformer model
 - Labs:
