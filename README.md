@@ -38,7 +38,7 @@ This is the first course of the Natural Language Processing Specialization.
 - Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
 - Labs:
 	- [Rotation matrices in R2](1_classification_vector_spaces/Week_4/labs/C1_W4_lecture_nb_01_vector_manipulation.ipynb)
-	- [Hash tables](1_classification_vector_spaces/Week_4/labs/C1_W4_lecture_nb_02_hash_functions_and_multiplanes.ipynb)
+	- [Hash functions and multiplanes](1_classification_vector_spaces/Week_4/labs/C1_W4_lecture_nb_02_hash_functions_and_multiplanes.ipynb)
 
 
 ## Course 2: Probabilistic Models in NLP
@@ -49,33 +49,33 @@ This is the second course of the Natural Language Processing Specialization.
 
 - Create a simple auto-correct algorithm using minimum edit distance and dynamic programming
 - Labs:
-	- Building the vocabulary
-	- Candidates from edits
+	- [Building the vocabulary](2_probabilistic_models/Week_1/labs/C2_W1_lecture_nb_01_building_the_vocabulary_model.ipynb)
+	- [Candidates from edits](2_probabilistic_models/Week_1/labs/C2_W1_lecture_nb_02_candidates_from_edits.ipynb)
 
 **Week 2: [Part-of-Speech (POS) Tagging](2_probabilistic_models/Week_2/assignment/C2_W2_Assignment.ipynb)**
 
 - Apply the Viterbi algorithm for POS tagging, which is important for computational linguistics
 - Labs:
-	- Working with text files
-	- Working with tags and Numpy
+	- [Working with text files](2_probabilistic_models/Week_2/labs/C2_W2_lecture_nb_1_strings_tags.ipynb)
+	- [Working with tags and Numpy](2_probabilistic_models/Week_2/labs/C2_W2_lecture_nb_2_numpy.ipynb)
 
 **Week 3: [N-gram Language Models](2_probabilistic_models/Week_3/assignment/C2_W3_Assignment.ipynb)**
 
 - Write a better auto-complete algorithm using an N-gram model (similar models are used for translation, determining the author of a text, and speech recognition)
 - Labs:
-	- Corpus preprocessing for N-grams
-	- Building the language model
-	- Language model generalization
+	- [Corpus preprocessing for N-grams](2_probabilistic_models/Week_3/labs/C2_W3_lecture_nb_01_corpus_preprocessing.ipynb)
+	- [Building the language model](2_probabilistic_models/Week_3/labs/C2_W3_lecture_nb_02_building_the_language_model.ipynb)
+	- [Language model generalization](2_probabilistic_models/Week_3/labs/C2_W3_lecture_nb_03_oov.ipynb)
 
 **Week 4: [Word2Vec and Stochastic Gradient Descent](2_probabilistic_models/Week_4/assignment/C2_W4_Assignment.ipynb)**
 
 - Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
 - Labs:
-	- Data Preparation
-	- Intro to CBOW model
-	- Training the CBOW model
-	- Word Embeddings
-	- Word Embeddings step by step
+	- [Data Preparation](2_probabilistic_models/Week_4/labs/C2_W4_lecture_nb_1_data_prep.ipynb)
+	- [Intro to CBOW model](2_probabilistic_models/Week_4/labs/C2_W4_lecture_nb_2_intro_to_CBOW.ipynb)
+	- [Training the CBOW model](2_probabilistic_models/Week_4/labs/C2_W4_lecture_nb_3_training_the_CBOW.ipynb)
+	- [Word Embeddings hands-on](2_probabilistic_models/Week_4/labs/C2_W4_lecture_nb_4_word_embeddings_hands_on.ipynb)
+	- [Word Embeddings step by step](2_probabilistic_models/Week_4/labs/C2_W4_lecture_nb_5_word_embeddings_step_by_step.ipynb)
 
 
 ## Course 3: Sequence Models in NLP
