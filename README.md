@@ -86,32 +86,32 @@ This is the third course in the Natural Language Processing Specialization.
 
 - Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
 - Labs:
-	- Introduction to Trax
-	- Classes and Subclasses
-	- Data Generators
+	- [Introduction to Trax](3_sequence_models/Week_1/labs/NLP_C3_W1_lecture_nb_01_trax_intro.ipynb)
+	- [Classes and Subclasses](3_sequence_models/Week_1/labs/NLP_C3_W1_lecture_nb_02_classes.ipynb)
+	- [Data Generators](3_sequence_models/Week_1/labs/NLP_C3_W1_lecture_nb_03_data_generators.ipynb)
 
 **Week 2: [Language Generation Models](3_sequence_models/Week_2/assignment/C3_W2_Assignment.ipynb)**
 
 - Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
 - Labs:
-	- Hidden State Activation
-	- Vanilla RNNS, GRUs and the scan function
-	- Working with JAX Numpy and Calculating Perplexity
-	- Creating a GRU model using Trax
+	- [Hidden State Activation](3_sequence_models/Week_2/labs/C3_W2_lecture_nb_1_Hidden_State_Activation.ipynb)
+	- [Vanilla RNNS, GRUs and the scan function](3_sequence_models/Week_2/labs/C3_W2_lecture_nb_2_RNNs.ipynb)
+	- [Working with JAX Numpy and Calculating Perplexity](3_sequence_models/Week_2/labs/C3_W2_lecture_nb_3_perplexity.ipynb)
+	- [Creating a GRU model using Trax](3_sequence_models/Week_2/labs/C3_W2_lecture_nb_4_GRU.ipynb)
 
 **Week 3: [Named Entity Recognition (NER)](3_sequence_models/Week_3/assignment/C3_W3_Assignment.ipynb)**
 
 - Train a recurrent neural network to perform NER using LSTMs with linear layers
 - Labs:
-	- Introduction to LSTM
+	- [Introduction to LSTM](3_sequence_models/Week_3/labs/C3_W3_Lecture_Notebook_Vanishing_Gradients.ipynb)
 
 **Week 4: [Siamese Networks](3_sequence_models/Week_4/assignment/C3_W4_Assignment.ipynb)**
 
 - Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
 - Labs:
-	- Creating a Siamese Model using Trax
-	- Modified Triplet Loss
-	- Evaluate a Siamese Model
+	- [Creating a Siamese Model using Trax](3_sequence_models/Week_4/labs/C3_W4_lecture_nb_1_siamese.ipynb)
+	- [Modified Triplet Loss](3_sequence_models/Week_4/labs/C3_W4_lecture_nb_2_Modified_Triplet_Loss.ipynb)
+	- [Evaluate a Siamese Model](3_sequence_models/Week_4/labs/C3_W4_lecture_nb_3_accuracy.ipynb)
 
 ## Course 4: Attention Models in NLP
 
