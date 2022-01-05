@@ -15,30 +15,30 @@ This is the first course of the Natural Language Processing Specialization.
 
 - Use a simple method to classify positive or negative sentiment in tweets
 - Labs:
-	- Natural Language preprocessing
-	- Visualzing word frequencies
-	- Visualizing tweets and Logistic Regression models 	
+	- [Natural Language preprocessing](1_classification_vector_spaces/Week_1/labs/C1_W1_lecture_nb_01_preprocessing.ipynb)
+	- [Visualzing word frequencies](1_classification_vector_spaces/Week_1/labs/C1_W1_lecture_nb_02_word_frequencies.ipynb)
+	- [Visualizing tweets and Logistic Regression models](1_classification_vector_spaces/Week_1/labs/C1_W1_lecture_nb_03_logistic_regression_model.ipynb) 	
 
 **Week 2: [Naïve Bayes for Sentiment Analysis of Tweets](1_classification_vector_spaces/Week_2/assignment/C1_W2_Assignment.ipynb)**
 
 - Use a more advanced model for sentiment analysis
 - Labs:
-	- Visualizing likelihoods and confidence ellipses
+	- [Visualizing likelihoods and confidence ellipses](1_classification_vector_spaces/Week_2/labs/C1_W2_lecture_nb_01_visualizing_naive_bayes.ipynb)
 
 **Week 3: [Vector Space Models](1_classification_vector_spaces/Week_3/assignment/C1_W3_Assignment.ipynb)**
 
 - Use vector space models to discover relationships between words and use principal component analysis (PCA) to reduce the dimensionality of the vector space and visualize those relationships
 - Labs:
-	- Linear algebra in Python with Numpy
-	- Manipulating word embeddings
-	- Another explanation about PCA
+	- [Linear algebra in Python with Numpy](1_classification_vector_spaces/Week_3/labs/C1_W3_lecture_nb_01_linear_algebra.ipynb)
+	- [Manipulating word embeddings](1_classification_vector_spaces/Week_3/labs/C1_W3_lecture_nb_02_manipulating_word_embeddings.ipynb)
+	- [Another explanation about PCA](1_classification_vector_spaces/Week_3/labs/C1_W3_lecture_nb_03_pca.ipynb)
 
 **Week 4: [Word Embeddings and Locality Sensitive Hashing for Machine Translation](1_classification_vector_spaces/Week_4/assignment/C1_W4_Assignment.ipynb)**
 
 - Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
 - Labs:
-	- Rotation matrices in R2
-	- Hash tables
+	- [Rotation matrices in R2](1_classification_vector_spaces/Week_4/labs/C1_W4_lecture_nb_01_vector_manipulation.ipynb)
+	- [Hash tables](1_classification_vector_spaces/Week_4/labs/C1_W4_lecture_nb_02_hash_functions_and_multiplanes.ipynb)
 
 
 ## Course 2: Probabilistic Models in NLP
